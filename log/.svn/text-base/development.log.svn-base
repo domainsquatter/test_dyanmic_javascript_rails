@@ -1,0 +1,1233 @@
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-03-07 12:52:01) [GET]
+
+
+CGI::Session::CookieStore::TamperedWithCookie (CGI::Session::CookieStore::TamperedWithCookie):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session/cookie_store.rb:145:in `unmarshal'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session/cookie_store.rb:102:in `restore'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/cgi/session.rb:304:in `[]'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/cgi_process.rb:98:in `session'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/cgi_process.rb:130:in `stale_session_check!'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/cgi_process.rb:78:in `session'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1205:in `assign_shortcuts'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/flash.rb:166:in `assign_shortcuts_with_flash'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:519:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendered C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (84.0ms)
+Rendered C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (32.0ms)
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-03-07 12:52:40) [GET]
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-03-07 12:52:40) [GET]
+
+
+MissingSourceFile (no such file to load -- sqlite3):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/kernel/requires.rb:19:in `require_library_or_gem'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/monitor.rb:191:in `mon_synchronize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_specification.rb:121:in `retrieve_connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/connection_specification.rb:113:in `connection'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendered C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (53.1ms)
+Rendered C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (3.4ms)
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-03-07 12:55:29) [GET]
+Completed in 142ms (View: 4, DB: 0) | 200 OK [http://localhost/rails/info/properties]
+  [4;36;1mSQL (109.9ms)[0m   [0;1mCREATE TABLE schema_migrations (version text(0) NOT NULL) [0m
+  [4;35;1mSQL (62.5ms)[0m   [0mCREATE UNIQUE INDEX unique_schema_migrations ON schema_migrations (version)[0m
+  [4;36;1mSQL (3.7ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090307224154)
+  [4;35;1mSQL (61.3ms)[0m   [0mCREATE TABLE users (id INTEGER PRIMARY KEY AUTOINCREMENT, login text(0), email text(0), crypted_password text(40), salt text(40), created_at INTEGER, updated_at INTEGER, remember_token text(0), remember_token_expires_at INTEGER) [0m
+  [4;36;1mSQL (55.5ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090307224154')[0m
+  [4;35;1mSQL (3.0ms)[0m   [0mSELECT SEQ FROM SQLITE_SEQUENCE WHERE NAME = 'schema_migrations'[0m
+  [4;36;1mSQL (2.5ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (3.6ms)[0m   [0mSELECT name, sql FROM sqlite_master WHERE tbl_name = 'users' AND type = 'index'[0m
+  [4;36;1mSQL (5.0ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090307224154)
+Migrating to CreateRoles (20090307224518)
+  [4;35;1mSQL (111.4ms)[0m   [0mCREATE TABLE roles (id INTEGER PRIMARY KEY AUTOINCREMENT, name text(0)) [0m
+  [4;36;1mSQL (60.6ms)[0m   [0;1mCREATE TABLE roles_users (role_id integer(0), user_id integer(0)) [0m
+  [4;35;1mSQL (54.8ms)[0m   [0mCREATE INDEX index_roles_users_on_role_id ON roles_users (role_id)[0m
+  [4;36;1mSQL (67.3ms)[0m   [0;1mCREATE INDEX index_roles_users_on_user_id ON roles_users (user_id)[0m
+  [4;35;1mSQL (47.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090307224518')[0m
+  [4;36;1mSQL (3.1ms)[0m   [0;1mSELECT SEQ FROM SQLITE_SEQUENCE WHERE NAME = 'schema_migrations'[0m
+  [4;35;1mSQL (3.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (4.0ms)[0m   [0;1mSELECT name, sql FROM sqlite_master WHERE tbl_name = 'roles' AND type = 'index'[0m
+  [4;35;1mSQL (4.4ms)[0m   [0mSELECT name, sql FROM sqlite_master WHERE tbl_name = 'roles_users' AND type = 'index'[0m
+  [4;36;1mSQL (3.6ms)[0m   [0;1mSELECT name, sql FROM sqlite_master WHERE tbl_name = 'users' AND type = 'index'[0m
+
+
+Processing UsersController#index (for 127.0.0.1 at 2009-03-07 16:39:29) [GET]
+
+
+ActionController::UnknownAction (No action responded to index. Actions: access_denied, check_roles, create, new, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2009-03-07 16:40:07) [GET]
+
+
+ActionController::UnknownAction (No action responded to index. Actions: access_denied, check_roles, create, destroy, new, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-07 16:40:27) [GET]
+
+
+ActionController::RoutingError (No route matches "/check_roles" with {:method=>:get}):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-07 16:40:47) [GET]
+
+
+ActionController::RoutingError (No route matches "/new" with {:method=>:get}):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2009-03-07 16:40:54) [GET]
+Rendering users/new
+Completed in 107ms (View: 104, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#create (for 127.0.0.1 at 2009-03-07 16:41:14) [POST]
+  Parameters: {"authenticity_token"=>"28eb1bca1125f655d18b87e124ded411fb814cc0", "user"=>{"login"=>"jeremy", "email"=>"domainsquatter@gmail.com", "password"=>"hearmer0ar", "password_confirmation"=>"hearmer0ar"}, "commit"=>"Sign up"}
+Cookie set: auth_token=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT
+  [4;36;1mUser Exists (13.5ms)[0m   [0;1mSELECT users.id FROM users WHERE (LOWER(users.login) = 'jeremy') LIMIT 1[0m
+  [4;35;1mUser Exists (2.2ms)[0m   [0mSELECT users.id FROM users WHERE (LOWER(users.email) = 'domainsquatter@gmail.com') LIMIT 1[0m
+  [4;36;1mUser Create (50.7ms)[0m   [0;1mINSERT INTO users (login, email, crypted_password, salt, created_at, updated_at, remember_token, remember_token_expires_at) VALUES('jeremy', 'domainsquatter@gmail.com', '22506ecf056975a36a556fb8bea5b56fdaad910b', '8a7899795bdcec323ea04cd037a4eaabdb8071a0', 1236469275, 1236469275, NULL, NULL)[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mSELECT SEQ FROM SQLITE_SEQUENCE WHERE NAME = 'users'[0m
+Redirected to /
+Completed in 639ms (DB: 68) | 302 Found [http://localhost/users]
+
+
+Processing SessionsController#new (for 127.0.0.1 at 2009-03-07 16:41:23) [GET]
+Rendering sessions/new
+Completed in 25ms (View: 14, DB: 0) | 200 OK [http://localhost/sessions/new]
+
+
+Processing SessionsController#create (for 127.0.0.1 at 2009-03-07 16:41:38) [POST]
+  Parameters: {"authenticity_token"=>"28eb1bca1125f655d18b87e124ded411fb814cc0", "login"=>"jeremy", "password"=>"hearmer0ar", "commit"=>"Log in"}
+  [4;36;1mUser Load (4.7ms)[0m   [0;1mSELECT * FROM users WHERE (users.login = 'jeremy') LIMIT 1[0m
+Redirected to /
+Completed in 123ms (DB: 5) | 302 Found [http://localhost/session]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-07 20:23:30) [GET]
+
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-07 20:23:41) [GET]
+
+
+ActionController::RoutingError (No route matches "/admin/index" with {:method=>:get}):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-03-07 20:24:12) [GET]
+
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:25:42) [GET]
+Rendering admin/index
+Completed in 103ms (View: 101, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:27:27) [GET]
+Rendering admin/index
+Completed in 36ms (View: 34, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:33:22) [GET]
+Rendering admin/index
+Completed in 70ms (View: 62, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:36:55) [GET]
+Rendering admin/index
+Completed in 52ms (View: 50, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:38:32) [GET]
+Rendering admin/index
+Completed in 193ms (View: 124, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-07 20:38:46) [GET]
+Rendering admin/index
+Completed in 46ms (View: 41, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:10:00) [GET]
+Rendering admin/index
+Completed in 88ms (View: 86, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:14:28) [GET]
+Rendering admin/index
+Completed in 275ms (View: 273, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:15:12) [GET]
+Rendering admin/index
+Completed in 68ms (View: 66, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:15:16) [GET]
+Rendering admin/index
+Completed in 34ms (View: 20, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:15:29) [GET]
+Rendering admin/index
+Completed in 346ms (View: 344, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:15:53) [GET]
+Rendering admin/index
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:16:06) [GET]
+Rendering admin/index
+Completed in 110ms (View: 106, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:16:59) [GET]
+Rendering admin/index
+Completed in 53ms (View: 51, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:17:49) [GET]
+Rendering admin/index
+Completed in 40ms (View: 38, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:18:47) [GET]
+Rendering admin/index
+Completed in 98ms (View: 90, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:19:23) [GET]
+Rendering admin/index
+Completed in 105ms (View: 103, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:19:55) [GET]
+Rendering admin/index
+Completed in 51ms (View: 48, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:21:25) [GET]
+Rendering admin/index
+Completed in 43ms (View: 29, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:22:06) [GET]
+Rendering admin/index
+Completed in 87ms (View: 44, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:22:16) [GET]
+Rendering admin/index
+Completed in 81ms (View: 74, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:28:06) [GET]
+  Parameters: {"_dc"=>"1236540486513", "callback"=>"stcCallback1001"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:30:26) [GET]
+  Parameters: {"_dc"=>"1236540627016", "callback"=>"stcCallback1002"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:30:31) [GET]
+  Parameters: {"_dc"=>"1236540632331", "callback"=>"stcCallback1003"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:30:43) [GET]
+  Parameters: {"_dc"=>"1236540643927", "callback"=>"stcCallback1004"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:40:50) [GET]
+  Parameters: {"_dc"=>"1236541251234", "callback"=>"stcCallback1005"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 13:41:00) [GET]
+  Parameters: {"_dc"=>"1236541261183", "callback"=>"stcCallback1006"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 13:41:41) [GET]
+Rendering admin/index
+Completed in 238ms (View: 236, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:13:47) [GET]
+  Parameters: {"_dc"=>"1236543228136"}
+
+
+ActionController::UnknownAction (No action responded to init. Actions: access_denied, check_roles, index, role_requirements, and role_requirements=):
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_with_rescue'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action_with_caching'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_with_filters'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process_with_session_management_support'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:76:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/bin/../lib/mongrel/rails.rb:74:in `process'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:159:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `each'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:158:in `process_client'
+    C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/mongrel-1.1.5-java/lib/mongrel.rb:285:in `run'
+    :1:in `initialize'
+
+Rendering C:/Program Files/NetBeans 6.5/ruby2/jruby-1.1.5/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:15:03) [GET]
+  Parameters: {"_dc"=>"1236543303826"}
+Rendering admin/init
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236543303826]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:15:04) [GET]
+  Parameters: {"_dc"=>"1236543304940"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236543304940]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:17:32) [GET]
+  Parameters: {"_dc"=>"1236543453403"}
+Rendering admin/init
+Completed in 19ms (View: 18, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236543453403]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:21:27) [GET]
+  Parameters: {"_dc"=>"1236543687701"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236543687701]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:26:45) [GET]
+  Parameters: {"_dc"=>"1236544005454"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544005454]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:28:17) [GET]
+  Parameters: {"_dc"=>"1236544097525"}
+Rendering admin/init
+Completed in 23ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544097525]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:29:01) [GET]
+  Parameters: {"_dc"=>"1236544141650"}
+Rendering admin/init
+Completed in 34ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544141650]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:30:14) [GET]
+  Parameters: {"_dc"=>"1236544214692"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544214692]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:30:26) [GET]
+  Parameters: {"_dc"=>"1236544226826"}
+Rendering admin/init
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544226826]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:31:59) [GET]
+  Parameters: {"_dc"=>"1236544319177"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544319177]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:32:57) [GET]
+  Parameters: {"_dc"=>"1236544377930"}
+Rendering admin/init
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544377930]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:34:15) [GET]
+  Parameters: {"_dc"=>"1236544455858"}
+Rendering admin/init
+Completed in 56ms (View: 54, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544455858]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:34:33) [GET]
+  Parameters: {"_dc"=>"1236544473892"}
+Rendering admin/init
+Completed in 16ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544473892]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:35:20) [GET]
+  Parameters: {"_dc"=>"1236544521005"}
+Rendering admin/init
+Completed in 18ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544521005]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:37:13) [GET]
+  Parameters: {"_dc"=>"1236544633540"}
+Rendering admin/init
+Completed in 53ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544633540]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:41:24) [GET]
+  Parameters: {"_dc"=>"1236544884775"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236544884775]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:44:31) [GET]
+  Parameters: {"_dc"=>"1236545071802"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545071802]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:45:27) [GET]
+  Parameters: {"_dc"=>"1236545127439"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545127439]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:45:46) [GET]
+  Parameters: {"_dc"=>"1236545147048"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545147048]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:49:10) [GET]
+  Parameters: {"_dc"=>"1236545350362"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545350362]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 14:49:17) [GET]
+Rendering admin/index
+Completed in 56ms (View: 54, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:49:23) [GET]
+  Parameters: {"_dc"=>"1236545363674"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545363674]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:50:17) [GET]
+  Parameters: {"_dc"=>"1236545418120"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545418120]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:51:16) [GET]
+  Parameters: {"_dc"=>"1236545476431"}
+Rendering admin/init
+Completed in 18ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545476431]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:52:39) [GET]
+  Parameters: {"_dc"=>"1236545559497"}
+Rendering admin/init
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545559497]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:56:52) [GET]
+  Parameters: {"_dc"=>"1236545812724"}
+Rendering admin/init
+Completed in 84ms (View: 48, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545812724]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:57:46) [GET]
+  Parameters: {"_dc"=>"1236545866698"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545866698]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 14:59:05) [GET]
+  Parameters: {"_dc"=>"1236545946193"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236545946193]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:00:32) [GET]
+  Parameters: {"_dc"=>"1236546032946"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546032946]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:01:21) [GET]
+  Parameters: {"_dc"=>"1236546081102"}
+Rendering admin/init
+Completed in 34ms (View: 31, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546081102]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:05:58) [GET]
+Rendering admin/index
+Completed in 48ms (View: 41, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:06:03) [GET]
+  Parameters: {"_dc"=>"1236546364257"}
+Rendering admin/init
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546364257]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:07:23) [GET]
+  Parameters: {"_dc"=>"1236546443865"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546443865]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:08:11) [GET]
+  Parameters: {"_dc"=>"1236546491747"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546491747]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:08:38) [GET]
+  Parameters: {"_dc"=>"1236546518804"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546518804]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:09:09) [GET]
+  Parameters: {"_dc"=>"1236546549325"}
+Rendering admin/init
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546549325]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:09:30) [GET]
+  Parameters: {"_dc"=>"1236546570789"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546570789]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:09:32) [GET]
+Rendering admin/index
+Completed in 94ms (View: 92, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:09:38) [GET]
+  Parameters: {"_dc"=>"1236546578634"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546578634]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:11:12) [GET]
+Rendering admin/index
+Completed in 78ms (View: 75, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:12:08) [GET]
+Rendering admin/index
+Completed in 78ms (View: 76, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:12:18) [GET]
+  Parameters: {"_dc"=>"1236546739314"}
+Rendering admin/init
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546739314]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:13:04) [GET]
+Rendering admin/index
+Completed in 56ms (View: 49, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:13:32) [GET]
+  Parameters: {"_dc"=>"1236546812955"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546812955]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:14:13) [GET]
+  Parameters: {"_dc"=>"1236546854142"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546854142]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:14:52) [GET]
+  Parameters: {"_dc"=>"1236546892593"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546892593]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:14:56) [GET]
+Rendering admin/index
+Completed in 58ms (View: 56, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:15:11) [GET]
+  Parameters: {"_dc"=>"1236546911789"}
+Rendering admin/init
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546911789]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:16:24) [GET]
+Rendering admin/index
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:16:34) [GET]
+  Parameters: {"_dc"=>"1236546994943"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236546994943]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:20:24) [GET]
+Rendering admin/index
+Completed in 56ms (View: 54, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:20:26) [GET]
+  Parameters: {"_dc"=>"1236547226283"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547226283]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:20:42) [GET]
+Rendering admin/index
+Completed in 36ms (View: 33, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:20:44) [GET]
+  Parameters: {"_dc"=>"1236547244655"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547244655]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:21:32) [GET]
+Rendering admin/index
+Completed in 62ms (View: 60, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:21:34) [GET]
+  Parameters: {"_dc"=>"1236547294298"}
+Rendering admin/init
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547294298]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:21:45) [GET]
+Rendering admin/index
+Completed in 55ms (View: 53, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:21:47) [GET]
+  Parameters: {"_dc"=>"1236547307422"}
+Rendering admin/init
+Completed in 36ms (View: 33, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547307422]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:22:08) [GET]
+Rendering admin/index
+Completed in 64ms (View: 62, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:22:09) [GET]
+  Parameters: {"_dc"=>"1236547330061"}
+Rendering admin/init
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547330061]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:22:33) [GET]
+Rendering admin/index
+Completed in 70ms (View: 68, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:22:35) [GET]
+  Parameters: {"_dc"=>"1236547355278"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547355278]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:22:45) [GET]
+Rendering admin/index
+Completed in 169ms (View: 167, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:22:46) [GET]
+  Parameters: {"_dc"=>"1236547367326"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547367326]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:23:07) [GET]
+Rendering admin/index
+Completed in 39ms (View: 37, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:23:08) [GET]
+  Parameters: {"_dc"=>"1236547389114"}
+Rendering admin/init
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547389114]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:23:50) [GET]
+Rendering admin/index
+Completed in 89ms (View: 87, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:23:51) [GET]
+  Parameters: {"_dc"=>"1236547432277"}
+Rendering admin/init
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547432277]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:24:16) [GET]
+Rendering admin/index
+Completed in 85ms (View: 82, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:24:18) [GET]
+  Parameters: {"_dc"=>"1236547458232"}
+Rendering admin/init
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547458232]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:24:53) [GET]
+Rendering admin/index
+Completed in 85ms (View: 83, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:24:55) [GET]
+  Parameters: {"_dc"=>"1236547495876"}
+Rendering admin/init
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547495876]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:25:12) [GET]
+Rendering admin/index
+Completed in 57ms (View: 55, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:25:13) [GET]
+  Parameters: {"_dc"=>"1236547514281"}
+Rendering admin/init
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547514281]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:25:31) [GET]
+Rendering admin/index
+Completed in 61ms (View: 54, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:25:33) [GET]
+  Parameters: {"_dc"=>"1236547533782"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547533782]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:28:56) [GET]
+Rendering admin/index
+Completed in 64ms (View: 61, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:28:58) [GET]
+  Parameters: {"_dc"=>"1236547738996"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547738996]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:29:02) [GET]
+Rendering admin/index
+Completed in 56ms (View: 55, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:29:04) [GET]
+  Parameters: {"_dc"=>"1236547744465"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547744465]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:31:40) [GET]
+Rendering admin/index
+Completed in 74ms (View: 71, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:32:03) [GET]
+Rendering admin/index
+Completed in 44ms (View: 42, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:32:05) [GET]
+  Parameters: {"_dc"=>"1236547925465"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236547925465]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:37:39) [GET]
+Rendering admin/index
+Completed in 58ms (View: 56, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:37:41) [GET]
+  Parameters: {"_dc"=>"1236548261517"}
+Rendering admin/init
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548261517]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:40:10) [GET]
+Rendering admin/index
+Completed in 41ms (View: 39, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:40:12) [GET]
+  Parameters: {"_dc"=>"1236548412678"}
+Rendering admin/init
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548412678]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:42:21) [GET]
+Rendering admin/index
+Completed in 225ms (View: 223, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:42:23) [GET]
+  Parameters: {"_dc"=>"1236548543971"}
+Rendering admin/init
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548543971]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:42:39) [GET]
+Rendering admin/index
+Completed in 57ms (View: 54, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:42:41) [GET]
+  Parameters: {"_dc"=>"1236548561630"}
+Rendering admin/init
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548561630]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:44:18) [GET]
+Rendering admin/index
+Completed in 59ms (View: 58, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:44:19) [GET]
+  Parameters: {"_dc"=>"1236548660261"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548660261]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 15:44:32) [GET]
+Rendering admin/index
+Completed in 58ms (View: 56, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 15:44:34) [GET]
+  Parameters: {"_dc"=>"1236548674331"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236548674331]
+
+
+Processing AdminController#index (for 127.0.0.1 at 2009-03-08 16:25:21) [GET]
+Rendering admin/index
+Completed in 74ms (View: 72, DB: 0) | 200 OK [http://localhost/admin]
+
+
+Processing AdminController#init (for 127.0.0.1 at 2009-03-08 16:25:22) [GET]
+  Parameters: {"_dc"=>"1236551122939"}
+Rendering admin/init
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/admin/init?_dc=1236551122939]

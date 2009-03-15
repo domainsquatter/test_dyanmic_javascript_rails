@@ -1,0 +1,11 @@
+{
+  result: [
+      {
+        action: function(){message_window = Ext.Msg.alert("Welcome", "Welcome, you have loaded");
+          vp.getComponent(0).setTitle("hi");
+          vp.add({title: 'added 2', layout: 'fit'});
+          vp.doLayout();
+        }
+      }
+  ]
+}

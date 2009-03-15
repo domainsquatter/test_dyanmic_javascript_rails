@@ -1,0 +1,77 @@
+9
+
+dir
+36
+file:///C:/Documents%20and%20Settings/jdespai/My%20Documents/Aptana%20IDE%20Beta2/security_framework_repo/branches/ext_app/test
+file:///C:/Documents%20and%20Settings/jdespai/My%20Documents/Aptana%20IDE%20Beta2/security_framework_repo
+
+
+
+2009-03-07T22:48:15.409904Z
+29
+jdespai
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+67db05fa-10e2-7c45-9448-e42596714fd6
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2009-03-07T22:45:17.711372Z
+d5336526b2fc9cb1eb1808945151f7e5
+2009-03-07T22:48:15.409904Z
+29
+jdespai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1905
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

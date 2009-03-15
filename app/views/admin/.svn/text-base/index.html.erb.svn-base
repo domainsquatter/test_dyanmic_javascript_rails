@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<style type="text/css">
+.ibis_header
+{
+background-image:
+url('/images/glass_eye_background.jpg');
+background-repeat: repeat-x
+}
+</style>
+
+  <%= stylesheet_link_tag "ext-all.css" %>
+  <%# stylesheet_link_tag "date" %>
+  <%# stylesheet_link_tag "Ext.ux.UploadDialog.css" %>
+  <%= javascript_include_tag "yui-utilities.js" %>
+  <%= javascript_include_tag "ext-yui-adapter.js" %>
+  <%= javascript_include_tag "ext-base.js" %>
+  <%= javascript_include_tag "ext-all.js" %>
+  <%# javascript_include_tag "FileUploadField.js" %>
+  <%# javascript_include_tag "Ext.ux.UploadDialog.js" %>
+  <%# javascript_include_tag "/ext_application.js" %>
+    <script type="text/javascript">
+      <%# render :partial => '/ext_app' %>
+
+    </script>
+    <script type="text/javascript">
+          message_window = null;
+          function init(){
+            //message_window = Ext.Msg.alert("Welcome", "Welcome, you have loaded")
+            loadRailsObject();
+          }
+
+function loadRailsObject(url){
+    //result = 'fail';
+    if(url == null) url = '/admin/init';
+    var jstore = new Ext.data.JsonStore({
+        url: '/admin/init',
+        root: 'result',
+        fields: ['action']
+    });
+
+    jstore.load({
+      callback: function(rec, a, b){
+        rec[0].get("action")();
+      }//end callback
+    });//end jstore.load
+
+}//end loadRailsObject
+
+vp = null; //mainviewport
+        Ext.onReady(function(){
+          vp = new Ext.Viewport({
+            
+            layout: 'anchor',
+            listeners: {render: function(){init();}},
+            items: [{title: 'goober', layout: 'fit'},{title: 'goober2', layout: 'fit'}]
+          }); //end viewport
+
+
+          //init();
+          
+        }); //end Ext.onReady
+    </script>
+    <title>My Application</title>
+</head>
+<body>
+</body>
+</html>
